@@ -6,7 +6,7 @@ const autos = [
 		precio: 30000,
 		puertas: 4,
 		color: 'White',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{ 
         marca: 'Audi', 
@@ -15,7 +15,7 @@ const autos = [
         precio: 40000, 
         puertas: 4, 
         color: 'Black', 
-        transmision: 'automatic' 
+        transmision: 'Automatic' 
     },
 	{
 		marca: 'Ford',
@@ -24,7 +24,7 @@ const autos = [
 		precio: 20000,
 		puertas: 2,
 		color: 'White',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{ 
         marca: 'Audi', 
@@ -33,7 +33,7 @@ const autos = [
         precio: 35000, 
         puertas: 4, 
         color: 'Black', 
-        transmision: 'automatic' 
+        transmision: 'Automatic' 
     },
 	{
 		marca: 'BMW',
@@ -42,7 +42,7 @@ const autos = [
 		precio: 70000,
 		puertas: 4,
 		color: 'Red',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -51,7 +51,7 @@ const autos = [
 		precio: 25000,
 		puertas: 4,
 		color: 'White',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{
 		marca: 'Chevrolet',
@@ -78,7 +78,7 @@ const autos = [
 		precio: 40000,
 		puertas: 4,
 		color: 'White',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{ 
         marca: 'Audi', 
@@ -106,7 +106,7 @@ const autos = [
 		precio: 45000,
 		puertas: 4,
 		color: 'Blue',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{
 		marca: 'BMW',
@@ -115,7 +115,7 @@ const autos = [
 		precio: 90000,
 		puertas: 4,
 		color: 'White',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{ 
         marca: 'Ford', 
@@ -133,7 +133,7 @@ const autos = [
 		precio: 35000,
 		puertas: 2,
 		color: 'Blue',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{
 		marca: 'BMW',
@@ -142,7 +142,7 @@ const autos = [
 		precio: 50000,
 		puertas: 4,
 		color: 'White',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{
 		marca: 'BMW',
@@ -151,7 +151,7 @@ const autos = [
 		precio: 80000,
 		puertas: 4,
 		color: 'Black',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -160,7 +160,7 @@ const autos = [
 		precio: 40000,
 		puertas: 4,
 		color: 'White',
-		transmision: 'automatic'
+		transmision: 'Automatic'
 	},
 	{ 
         marca: 'Audi', 
@@ -169,6 +169,6 @@ const autos = [
         precio: 30000, 
         puertas: 4, 
         color: 'Blue', 
-        transmision: 'automatic' 
+        transmision: 'Automatic' 
     }
 ];
